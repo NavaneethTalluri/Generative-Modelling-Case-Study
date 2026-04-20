@@ -1,5 +1,3 @@
-# 📌 GANs: From Basics to Real Applications
-
 ## 📖 Overview
 
 This project builds **Generative Adversarial Networks (GANs)** from scratch and applies them to synthetic data, medical images, cybersecurity traffic, and creative sketches.
