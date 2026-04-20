@@ -6,7 +6,7 @@ This project builds **Generative Adversarial Networks (GANs)** from scratch and 
 
 ### 🔹 1. Sine Wave GAN
 
-Learned noisy sine distribution
+Learned noisy sine distribution: y = sin(x) + epsilon
 
 ### 🔹 2. Conditional GAN (Curve Learning)
 
